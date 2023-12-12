@@ -1,0 +1,4 @@
+iverilog -o tas 1task.v tb_1task.v 
+vvp tas
+
+gtkwave test.vsd 
