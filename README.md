@@ -3,18 +3,25 @@
 * Clone the repo
 * Open terminal into directory
 
-*sudo chmod 777 compile*
+### Verilog:
+*sudo chmod 777 run*
+
+*./run*
+
+### C:
+*./FIR*
 
 ## Description
-* compile - script for build and start 
-* 1task.v - source code on verilog
-* tb_1task.v - test branch for 1.task.v
+* run - bash script for build project and start GTKWave
+* FIR.v - source code on verilog
+* tb_FIR.v - test branch for FIR.v
 * tas and test.vcd - autogenerate files for GTKWave
-* temp.c - source code on C PL
-* temp - build of C source code 
+* FIR.c - source code on C PL
+* FIR - build of C source code 
 
 ## Requirements:
 * GTKWave
 * iverilog
+
 
 
