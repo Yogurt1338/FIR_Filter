@@ -18,6 +18,7 @@
 * tas and test.vcd - autogenerate files for GTKWave
 * FIR.c - source code on C PL
 * FIR - build of C source code 
+* gtkwave_out.gtkw - file for GTKwave 
 
 ## Requirements:
 * GTKWave
